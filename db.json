@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,20 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "dog",
+      "dogBreed": "",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +33,110 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 1
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 2
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 3
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 4
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 5
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 6
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 7
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 8
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 9
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 10
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 11
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 12
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 13
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 14
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 15
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 16
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 17
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 18
+    },
+    {
+      "name": "kate",
+      "email": "kb@email.com",
+      "id": 19
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
